@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ardhan
-- 👀 I’m interested in artificial intelligence, machine learning, deep learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate with anyone
-- 
+- 👀 I’m interested in artificial intelligence, machine learning, deep learning, web & app engineering
+- 🌱 I’m currently learning laravel & php
+
 
 <!---
 greatwraith/Greatwraith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
