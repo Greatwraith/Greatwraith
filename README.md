@@ -99,22 +99,6 @@ I enjoy turning ideas into products while making sure the team stays organized a
 
 ---
 
-# 🎯 2026 Goals
-
-✅ TOEIC
-
-✅ Unity Certified User: Programmer
-
-🎯 SAT
-
-🎯 TOEFL iBT
-
-🚀 Build more impactful software projects
-
-🌍 Study Computer Engineering Abroad
-
----
-
 # 🌟 Interests
 
 - 🤖 Artificial Intelligence
@@ -124,7 +108,6 @@ I enjoy turning ideas into products while making sure the team stays organized a
 - 📱 Mobile Development
 - 📊 Data Analytics
 - 💹 Finance & Investment
-- 🎨 UI/UX
 
 ---
 
@@ -132,9 +115,9 @@ I enjoy turning ideas into products while making sure the team stays organized a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Greatwraith&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greatwraith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -144,7 +127,7 @@ I enjoy turning ideas into products while making sure the team stays organized a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Greatwraith&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -176,7 +159,7 @@ I enjoy turning ideas into products while making sure the team stays organized a
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_PUBLIC_USERNAME/">
+<a href="https://www.linkedin.com/in/m-ardhan-rahman-29056b225/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
