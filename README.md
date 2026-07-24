@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm M. Ardhan Rahman
+#M. Ardhan Rahman
 
 ### 💻 Software Engineering Student • 🌐 Software & Website Developer • 🚀 Project Leader • 🤖 AI Enthusiast • 🌐 Full Stack Developer
 
@@ -13,7 +13,7 @@
 
 # 👨‍💻 About Me
 
-Hi! I'm **Muhammad Ardhan Rahman**, a Software Engineering student from **Indonesia 🇮🇩**.
+Hi! I'm **M. Ardhan Rahman**, a Software Engineering student from **Indonesia 🇮🇩**.
 
 I enjoy creating software that solves real-world problems while continuously improving my programming, leadership, and analytical skills.
 
