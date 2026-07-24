@@ -2,9 +2,10 @@
 
 # Hi 👋 I'm M. Ardhan Rahman
 
-### 💻 Software Engineering Student • 🚀 Project Leader • 🤖 AI Enthusiast • 🌐 Full Stack Developer
+### 💻 Software Engineering Student • 🌐 Software & Website Developer • 🚀 Project Leader • 🤖 AI Enthusiast • 🌐 Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Project+Leader;Always+Learning+New+Things!" />
+
+<<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&width=950&lines=Computer+Science+Student;Software+Engineer+in+Progress;Website+Developer;Backend+Developer;Mobile+Application+Developer;Automation+Enthusiast;Artificial+Intelligence+Learner;Machine+Learning+Explorer;Building+Solutions+Through+Code" />
 
 </div>
 
