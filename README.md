@@ -77,6 +77,7 @@ I enjoy turning ideas into products while making sure the team stays organized a
 ### 🗄 Database
 
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ⚙️ Tools
 
