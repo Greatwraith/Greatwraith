@@ -1,120 +1,188 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ardhan Rahman</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineering Student • Project Leader • Full Stack Developer • AI Enthusiast
-</h3>
+# Hi 👋 I'm M. Ardhan Rahman
 
----
+### 💻 Software Engineering Student • 🚀 Project Leader • 🤖 AI Enthusiast • 🌐 Full Stack Developer
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Project+Leader;Always+Learning+New+Things!" />
 
-I'm a Software Engineering student from Indonesia who enjoys building software that solves real-world problems.
-
-I have experience leading software development projects, designing databases, planning application architecture, and collaborating with development teams. Besides software engineering, I'm passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Finance & Investment.
-
-Currently, I'm preparing for several international certifications while continuously improving my programming, software engineering, and problem-solving skills.
+</div>
 
 ---
 
-## 👨‍💼 Leadership
+# 👨‍💻 About Me
 
-Throughout my academic projects, I frequently serve as the **Project Leader**, coordinating development teams, planning project timelines, designing system architecture, organizing database structures, and ensuring successful project delivery.
+Hi! I'm **Muhammad Ardhan Rahman**, a Software Engineering student from **Indonesia 🇮🇩**.
 
-I enjoy bridging technical implementation with effective team collaboration while maintaining clear communication throughout the development process.
+I enjoy creating software that solves real-world problems while continuously improving my programming, leadership, and analytical skills.
 
----
+Besides software engineering, I'm passionate about:
 
-## 🚀 Current Focus
-
-- 🤖 Artificial Intelligence & Machine Learning
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
 - 📊 Data Analytics
-- 🌐 Full Stack Web Development
-- 📱 Mobile Application Development
 - 💹 Finance & Investment
-- 📚 Competitive Programming & Problem Solving
+- 🌐 Web Development
+- 📱 Mobile Development
+
+Currently preparing for several international certifications while building projects and expanding my technical experience.
 
 ---
 
-## 💼 Roles
+# 👨‍💼 Leadership
 
-- 👨‍💼 Project Leader
-- 📋 Project Manager (Student Projects)
-- 💻 Full Stack Developer
-- 🗄️ Database Designer
-- 🧩 System Analyst
+I frequently take the role of **Project Leader** during software development projects.
 
----
+My responsibilities include:
 
-## 🛠 Tech Stack
+- 📋 Project Planning
+- 👨‍💻 Team Coordination
+- 🏗️ System Architecture
+- 🗄️ Database Design
+- 📈 Project Management
+- 🔍 Requirement Analysis
+- 🚀 Software Development
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Database
-
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-- Figma
-- XAMPP
+I enjoy turning ideas into products while making sure the team stays organized and productive.
 
 ---
 
-## 📈 Currently Learning
+# 🚀 Current Focus
 
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-- Python for AI
-- Flutter Development
-- Software Architecture
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Unity Certified User: Programmer
-- ✅ TOEIC
-- 🎯 SAT
-- 🎯 TOEFL iBT
-- 🚀 Build impactful software projects
-- 🌍 Prepare for a Computer Engineering degree abroad
+- 🤖 Artificial Intelligence
+- 📊 Data Analytics
+- 🌐 Full Stack Development
+- 📱 Flutter Development
+- 💹 Finance & Investment
+- 📚 Algorithms & Problem Solving
 
 ---
 
-## 📂 Areas of Interest
+# 🛠 Tech Stack
 
-- Artificial Intelligence
-- Machine Learning
-- Software Engineering
-- Backend Development
-- Mobile Development
-- Database Systems
-- Data Analytics
-- Finance & Investment
-- UI/UX Design
+### 💻 Languages
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frameworks
+
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🗄 Database
+
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Tools
+
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+# 📚 Currently Learning
 
-- 📷 Instagram: **@swolocaustt**
-- 💻 GitHub: **https://github.com/Ardhan**
+- 🧠 Machine Learning
+- 🤖 Deep Learning
+- 📈 Data Structures & Algorithms
+- 🐍 Python for AI
+- 📱 Flutter
+- 🏛 Software Architecture
 
 ---
 
-> **"Always learning. Always building."**
+# 🎯 2026 Goals
+
+✅ TOEIC
+
+✅ Unity Certified User: Programmer
+
+🎯 SAT
+
+🎯 TOEFL iBT
+
+🚀 Build more impactful software projects
+
+🌍 Study Computer Engineering Abroad
+
+---
+
+# 🌟 Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💻 Software Engineering
+- 🌐 Backend Development
+- 📱 Mobile Development
+- 📊 Data Analytics
+- 💹 Finance & Investment
+- 🎨 UI/UX
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 2026 Roadmap
+
+🟢 TOEIC
+
+🟢 Unity Certification
+
+🟡 SAT
+
+🟡 TOEFL iBT
+
+🔵 AI Projects
+
+🔵 Open Source Contributions
+
+---
+
+# 📫 Connect With Me
+
+<a href="https://instagram.com/swolocaustt">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Greatwraith">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_PUBLIC_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+<div align="center">
+
+## ⭐ *Always learning. Always building.*
+
+</div>
