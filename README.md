@@ -134,21 +134,6 @@ I enjoy turning ideas into products while making sure the team stays organized a
 
 ---
 
-# 🏆 2026 Roadmap
-
-🟢 TOEIC
-
-🟢 Unity Certification
-
-🟡 SAT
-
-🟡 TOEFL iBT
-
-🔵 AI Projects
-
-🔵 Open Source Contributions
-
----
 
 # 📫 Connect With Me
 
