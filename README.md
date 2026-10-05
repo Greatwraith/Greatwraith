@@ -19,12 +19,12 @@ I enjoy creating software that solves real-world problems while continuously imp
 
 Besides software engineering, I'm passionate about:
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Analytics
-- 💹 Finance & Investment
-- 🌐 Web Development
-- 📱 Mobile Development
+-  Artificial Intelligence
+-  Machine Learning
+-  Data Analytics
+-  Finance & Investment
+-  Web Development
+-  Mobile Development
 
 Currently preparing for several international certifications while building projects and expanding my technical experience.
 
@@ -50,12 +50,12 @@ I enjoy turning ideas into products while making sure the team stays organized a
 
 # 🚀 Current Focus
 
-- 🤖 Artificial Intelligence
-- 📊 Data Analytics
-- 🌐 Full Stack Development
-- 📱 Flutter Development
-- 💹 Finance & Investment
-- 📚 Algorithms & Problem Solving
+-  Artificial Intelligence
+-  Data Analytics
+-  Full Stack Development
+-  Flutter Development
+-  Finance & Investment
+-  Algorithms & Problem Solving
 
 ---
 
@@ -91,12 +91,12 @@ I enjoy turning ideas into products while making sure the team stays organized a
 
 # 📚 Currently Learning
 
-- 🧠 Machine Learning
-- 🤖 Deep Learning
-- 📈 Data Structures & Algorithms
-- 🐍 Python for AI
-- 📱 Flutter
-- 🏛 Software Architecture
+-  Machine Learning
+-  Deep Learning
+-  Data Structures & Algorithms
+-  Python for AI
+-  Flutter
+-  Software Architecture
 
 ---
 
